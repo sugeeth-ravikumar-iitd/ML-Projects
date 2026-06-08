@@ -25,5 +25,5 @@ If you want to play around with the code yourself:
    ```bash
    pip install torch torchvision numpy matplotlib
    
-4. Clone this repo and open the ResNet_PyTorch_FashionMNIST.ipynb notebook.
+4. Clone this repo and open the `ResNet_PyTorch_FashionMNIST.ipynb` notebook.
 5. Run the cells from top to bottom.
